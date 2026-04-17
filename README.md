@@ -21,14 +21,14 @@ A compliance risk analysis of Burger King's OpenAI-powered drive-through employe
 
 - **Primary issues:** BIPA voiceprint exposure; minor-employee governance gap
 - **Frameworks referenced:** Illinois BIPA (740 ILCS 14); EU AI Act Article 5(1)(f) (workplace affect-inference prohibition)
-- **File:** [`bk-assistant-compliance-risk-assessment.md`](./bk-assistant-compliance-risk-assessment.md)
+- **File:** [`bk-assistant.md`](./bk-assistant.md)
 
 ### Due Diligence Assessment of Anthropic's Claude Code
 A vendor risk assessment of Claude Code for potential internal deployment in a SaaS software development context. Scores seven risk dimensions, maps findings to NIST AI RMF functions, and produces a risk register with a conditional-approval decision.
 
 - **Primary issues:** Execute DPA; restrict agentic scope; gate on CVE-2026-21852 patch
 - **Frameworks referenced:** NIST AI RMF (Govern / Map / Measure / Manage); ISO/IEC 42001; ISO/IEC 27001; EU AI Act GPAI; SOC 2
-- **File:** [`claude-code-vendor-risk-assessment.md`](./claude-code-vendor-risk-assessment.md)
+- **File:** [`claude-code.md`](./claude-code.md)
 
 ---
 
