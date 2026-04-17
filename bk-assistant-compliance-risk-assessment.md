@@ -1,9 +1,8 @@
 **Jose Ruiz-Vazquez**  
-*AI Governance & Risk*
 
 **Summary of Compliance Risk for the BK Assistant Algorithm**
 
-March 2026  |  Version 1.0
+March 2026
 
 # **Overview of Algorithmic System**
 
